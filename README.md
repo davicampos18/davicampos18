@@ -27,6 +27,7 @@
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Flet" src="https://img.shields.io/badge/Flet-purple?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/-Django-0C4B33?style=for-the-badge&logo=django&labelColor=0C4B33&color=0C4B33">
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
