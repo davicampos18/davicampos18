@@ -41,18 +41,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-###
 
-<h2 align="left">📊 Estatísticas e Atividade</h2>
-
-###
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=davicampos18&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davicampos18&amp;locale=pt-pt&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=false" height="150" alt="Gráfico de Linguagens" />
-</p>
-
-###
 
 <h2 align="left">🚀 Projetos e Estudos de Caso</h2>
 
