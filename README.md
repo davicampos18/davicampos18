@@ -10,7 +10,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/-davisilvadecampos18@gmail.com-0f172a?style=flat-square&labelColor=0f172a&logo=gmail&logoColor=38bdf8)](mailto:davisilvadecampos18@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0f172a?style=flat-square&labelColor=0f172a&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/davi-campos-0b82b719a/)
-[![Portfolio Badge](https://img.shields.io/badge/-Ver_Meu_Portfólio-0f172a?style=flat-square&labelColor=0f172a&logo=vercel&logoColor=38bdf8)]([davicampos.dev.br](https://www.davicampos.dev.br/))
+[![Portfolio Badge](https://img.shields.io/badge/-Ver_Meu_Portfólio-0f172a?style=flat-square&labelColor=0f172a&logo=vercel&logoColor=38bdf8)](https://www.davicampos.dev.br/)
 
 <p align="left">
 - 🏛️ <b>Atual:</b> Assistente de Suporte e Desenvolvimento na Justiça Federal (TRF1), construindo sistemas corporativos e automações.<br>
@@ -48,7 +48,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=davicampos18&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davicampos18&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" height="150" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davicampos18&locale=pt-pt&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Gráfico de Linguagens" />
 </div>
 
@@ -61,7 +61,7 @@
 <p align="left">
   Devido a contratos de confidencialidade (NDA), o código-fonte dos meus maiores sistemas comerciais — como a plataforma da <b>Clínica Psicológica</b>, o SaaS de <b>Gestão Eclesiástica</b> e o <b>Sistema Patrimonial do NUBES</b> — reside em repositórios privados.
   <br><br>
-  Para visualizar a arquitetura, as interfaces e a resolução de problemas de negócio dessas aplicações, <b><a href="COLOQUE_O_LINK_DO_SEU_PORTFOLIO_AQUI" target="_blank">acesse os Estudos de Caso no meu Portfólio.</a></b>
+  Para visualizar a arquitetura, as interfaces e a resolução de problemas de negócio dessas aplicações, <b><a href="https://www.davicampos.dev.br/" target="_blank">acesse os Estudos de Caso no meu Portfólio.</a></b>
   <br><br>
   Abaixo, alguns dos meus códigos de automação e projetos públicos:
   <br><br>
