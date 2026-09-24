@@ -47,10 +47,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=davicampos18&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davicampos18&locale=pt-pt&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Gráfico de Linguagens" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=davicampos18&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davicampos18&amp;locale=pt-pt&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=false" height="150" alt="Gráfico de Linguagens" />
+</p>
 
 ###
 
